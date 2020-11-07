@@ -1,7 +1,0 @@
-name: KT-TEST
-version: 1.0.0
-main: me.miqhtie.kttest.Main
-
-commands:
-  test:
-    description: test!
