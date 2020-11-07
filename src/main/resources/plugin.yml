@@ -1,0 +1,11 @@
+name: Example-Plugin
+version: 1.0.0
+main: me.miqhtie.kttest.Main
+api-version: 1.16.3
+#
+#Commands
+#
+
+commands:
+  example:
+    description: Example Command!
